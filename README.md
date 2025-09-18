@@ -60,6 +60,6 @@ To run the script from the source code:
 
 ## ✒️ Author
 
-* **Brand:** Data Bloom
+* **Data Bloom**
 * **GitHub:** [github.com/Data-Blooom](https://github.com/Data-Blooom)
 * **Telegram:** [t.me/Data_Bloom](https://t.me/Data_Bloom)
