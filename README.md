@@ -2,8 +2,7 @@
 
 A user-friendly desktop application, developed in Python with a Tkinter GUI, to automatically organize your messy design project folders.
 
-![Screenshot/GIF of the application]
-https://github.com/Data-Blooom/Photoshop-File-Organizer/blob/main/Photoshop%20File%20Organizer.png
+[Screenshot/GIF of the application](https://github.com/Data-Blooom/Photoshop-File-Organizer/blob/main/Photoshop%20File%20Organizer.png)
 
 ## 🌟 Overview
 
