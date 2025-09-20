@@ -2,8 +2,7 @@
 
 A user-friendly desktop application, developed in Python with a Tkinter GUI, to automatically organize your messy design project folders.
 
-```markdown
-![Design File Organizer](photoshop-file-organizer.png)```
+```markdown ![Design File Organizer](photoshop-file-organizer.png)```
 
 ## 🌟 Overview
 
