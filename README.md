@@ -5,6 +5,7 @@ A user-friendly desktop application, developed in Python with a Tkinter GUI, to 
 ```markdown
 ![Design File Organizer)](Photoshop File Organizer.png)
 ```
+
 ## 🌟 Overview
 
 This project involved the development of a practical tool to solve a common problem for designers: cluttered project folders. This application intelligently sorts various design files (PSDs, vectors, images, fonts, etc.) into clean, organized subfolders with a single click, streamlining the creative workflow.
