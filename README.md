@@ -34,7 +34,7 @@ The application organizes files into the following categories:
 
 ## 🚀 How to Use (for Users)
 
-1.  Go to the **[Releases](https://github.com/Data-Blooom/Photoshop-File-Organizer/releases/tag/python)** page of this repository.
+1.  Go to the **[Releases](https://github.com/Data-Blooom/Photoshop-File-Organizer/releases)** page of this repository.
 2.  Download the latest `.exe` file.
 3.  Run the application. No installation is required!
 
